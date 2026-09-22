@@ -1,2 +1,2 @@
-# Teste-de-nivelamento-IA
-Repositorio para teste de nivelamento da cadeira de inteligencia artifical
+# Teste-de-Conhecimento-IA
+Repositorio para teste de Conhecimento da cadeira de inteligencia artifical
